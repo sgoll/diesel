@@ -16,6 +16,7 @@ Increasing the minimal supported Rust version will always be coupled at least wi
 
 * Remove more mentions of gitter from the documentation
 * Generate `InstrumentationEvent::BeginTransaction` for immediate and exclusive transactions in SQLite
+* Use a single space instead of two spaces between `DELETE FROM`.
 
 ## [2.2.5] 2024-11-21
 
